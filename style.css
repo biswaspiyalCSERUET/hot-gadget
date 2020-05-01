@@ -1,0 +1,67 @@
+#navs
+{
+    margin-bottom: 0px;
+}
+.container
+{
+    margin-bottom: 100px;
+}
+.container h3{
+    font-weight: bolder;
+}
+.container p{
+    color: gray;
+}
+.bg-light
+{
+    background: none !important;
+}
+.buy-now-button{
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    padding: 9px 25px;
+    coursor: pointer;
+}
+.card{
+    text-align: center;
+    border:none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px whitesmoke;
+}
+.card img{
+    padding-right:60px;
+    padding-left:30px;
+    padding-top:40px;
+    height:50%;
+    width:100%;
+}
+.card h5{
+    margin-top: 50px;
+}
+.card footer{
+    background-color:none !important;
+    border-top: none;
+}
+#categories h3{
+    text-align: center;
+    margin-bottom: 50px;
+}
+#first .card{
+    text-align: center;
+    border:none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px whitesmoke;
+}
+.card-text{
+    font-weight: bolder;
+}
+#second
+{
+    margin-bottom: 50px;
+}
+#last img{
+    width: 100%;
+    height: 70%;
+}
